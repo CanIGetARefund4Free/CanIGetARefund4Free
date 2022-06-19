@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CanIGetARefund4Free
 - 👀 I’m interested in data analytics and application programming.
-- 🌱 I’m currently learning C#, JS, and Rust.
+- 🌱 I’m currently learning C#, JS, and Rust later in the future.
 - 💞️ I’m looking to collaborate on almost anything, except maybe embedded systems at the moment.
 - 📫 How to reach me - calebcoyle52@gmail.com
 - 
